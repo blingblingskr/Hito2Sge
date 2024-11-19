@@ -18,10 +18,3 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 - **MySQL Server** (local o remoto)
 - Librerías de Python necesarias (ver sección de instalación)
 
-## Instalación
-
-1. Clona este repositorio:
-
-   ```bash
-   git clone https://github.com/tuusuario/mysql-tkinter-example.git
-   cd mysql-tkinter-example
